@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SmartBlog.Api/SmartBlog.Api.csproj" />
+    <Project Path="src/SmartBlog.Application/SmartBlog.Application.csproj" />
+    <Project Path="src/SmartBlog.Domain/SmartBlog.Domain.csproj" />
+    <Project Path="src/SmartBlog.Infrastructure/SmartBlog.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SmartBlog.Application.Tests/SmartBlog.Application.Tests.csproj" />
+  </Folder>
+</Solution>

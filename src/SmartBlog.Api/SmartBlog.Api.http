@@ -1,0 +1,6 @@
+@SmartBlog.Api_HostAddress = http://localhost:5121
+
+GET {{SmartBlog.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
